@@ -2,6 +2,7 @@
 with open('day1\elf_snack.txt') as f:
     trip = f.read().splitlines()
 
+
 snack = []
 elf = []
 sums = []
